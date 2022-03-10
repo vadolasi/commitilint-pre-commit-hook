@@ -1,0 +1,7 @@
+{
+  "name": "commitilint-pre-commit-hook",
+  "version": "1.0.0",
+  "dependencies": {
+    "@commitlint/cli": "^16.2.1"
+  }
+}
