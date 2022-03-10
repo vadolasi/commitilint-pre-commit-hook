@@ -1,9 +1,9 @@
 - id: commitlint
+  pass_filenames: false
   name: commitlint
   description: run commitlint
   entry: commitlint --edit
   language: node
-  require_serial: true
   additional_dependencies:
     - "@commitlint/cli@16.2.1"
     - "@commitlint/config-conventional@16.2.1"
