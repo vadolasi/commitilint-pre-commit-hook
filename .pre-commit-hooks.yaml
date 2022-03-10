@@ -3,4 +3,4 @@
   entry: commitlint --edit
   language: node
   additional_dependencies:
-    - commitlint/cli@*
+    - "@commitlint/cli@16.2.1"
