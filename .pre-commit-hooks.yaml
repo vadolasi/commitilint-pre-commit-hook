@@ -1,5 +1,4 @@
 - id: commitlint
-  pass_filenames: false
   name: commitlint
   description: run commitlint
   entry: commitlint --edit
